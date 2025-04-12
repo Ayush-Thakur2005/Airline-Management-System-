@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` content you can use for your **Airline Management System** project using **Java Swing, AWT, JDBC, and MySQL** on GitHub:
-
----
-
 # ✈️ Airline Management System
 
 A **Java-based GUI application** for managing airline operations, built using **Java Swing**, **AWT**, **JDBC**, and **MySQL**. This system handles core functionalities such as adding customers, booking flights, managing tickets, and maintaining airline records.
